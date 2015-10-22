@@ -1,7 +1,6 @@
 header {
 	margin-top: 0px;
-	background-color: rgb(0, 102, 205);
-  color: white;
+	background-color: rgb(150, 150, 150);
 	width: auto;
 	height: 100px;
 	line-height: 100px;
@@ -13,7 +12,7 @@ header {
   }
 
 footer {
-	background-color: rgb(0, 102, 205);
+	background-color: rgb(150, 150, 150);
   color: white;
   position: absolute;
   bottom: 0;
@@ -33,6 +32,7 @@ main {
   margin-right: auto;
 	font-family:'Muli', sans-serif;
 	text-align: justify;
+	
   }
 
 p {

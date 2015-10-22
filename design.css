@@ -26,24 +26,22 @@ footer {
   }
 
 main {
-  font-size: 20px;
   width: 75%;
   margin-left: auto;
   margin-right: auto;
 	font-family:'Muli', sans-serif;
 	text-align: justify;
-	
   }
 
 p {
   padding-left: 1em;
-	font-size: 25px;
+	font-size: 20px;
 	margin-top: 0px;
 	margin-bottom: 10px;
   }
 
 h2 {
-	font-size: 50px;
+	font-size: 40px;
   margin-left: auto;
   margin-right: auto;
 	margin-bottom: 10px;

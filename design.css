@@ -6,42 +6,44 @@ header {
 	line-height: 100px;
 	color: white;
 	font-family: monospace;
-        font-size: 50px;
-        text-align: center;
-        }
+  font-size: 50px;
+  text-align: center;
+  }
 
 footer {
 	background-color: rgb(150, 150, 150);
-        color: white;
-        position: absolute;
-        bottom: 0;
-        text-align: center;
-        width: 100%;
-        font-family: monospace;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  font-family: monospace;
 	margin-left: 0px;
 	margin-right: 0px;
 	font-size: 15px;
 	margin-bottom: 10px;
-        }
+  }
 
 main {
-        font-size: 20px;
-        width: 75%;
-        margin-left: auto;
-        margin-right: auto;
-				font-family: sans-serif;
-				text-align: justify;
-        }
+  font-size: 20px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+	font-family: sans-serif;
+	text-align: justify;
+  }
 
 p {
-
-        padding-left: 1em;
-        }
+  padding-left: 1em;
+	font-size: 20px;
+  }
 
 h2 {
-        margin-left: auto;
-        margin-right: auto;
-        }
+	font-size: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
 body {
 	width: 100%;
 	height: auto;

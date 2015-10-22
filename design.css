@@ -1,5 +1,5 @@
 header {
-	margin-top: 0px;
+	margin-top: 2px;
 	background-color: rgb(150, 150, 150);
 	width: auto;
 	height: 100px;
@@ -21,7 +21,7 @@ footer {
   font-family:'Muli', sans-serif;
 	margin-left: 0px;
 	margin-right: 0px;
-	font-size: 15px;
+	font-size: 17px;
 	margin-bottom: 10px;
   }
 

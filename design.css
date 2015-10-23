@@ -16,7 +16,7 @@ html, body {
 
 #header {
 	margin-top: 0px;
-	background-color: rgb(150, 150, 150);
+	background-color: rgb(245, 130, 0);
 	width: auto;
 	height: 100px;
 	line-height: 100px;
@@ -59,9 +59,10 @@ h2 {
   }
 
 #footer {
-	background-color: rgb(150, 150, 150);
+	background-color: rgb(245, 130, 0);
   color: white;
   bottom: 0px;
+	font-weight: 300;
   text-align: center;
   width: 100%;
   font-family:'Muli', sans-serif;

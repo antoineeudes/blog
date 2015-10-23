@@ -1,5 +1,5 @@
 header {
-	margin-top: 11px;
+	margin-top: 10px;
 	background-color: rgb(150, 150, 150);
 	width: auto;
 	height: 100px;
@@ -26,7 +26,7 @@ footer {
   }
 
 main {
-  width: 75%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
 	font-family:'Muli', sans-serif;
@@ -58,8 +58,8 @@ body {
 
 #right_photo {
 	position: fixed;
-	width: 460px;
-	length: 460px;
+	width: 100px;
+	length: 100px;
 	top: 20%;
 	left: 80%;
 }

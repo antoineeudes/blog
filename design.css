@@ -1,8 +1,12 @@
 html, body {
-	padding : 0;
-	margin : 0;
-	height : 100%;
+	padding: 0;
+	margin: 0;
+	height: 100%;
 	border: 0px;
+	}
+
+body {
+	position: static;
 	}
 
 #container {
@@ -27,9 +31,9 @@ html, body {
   }
 
 #main {
-  width: 60%;	/** 60% si photo, 80% sinon **/
-  margin-left: 15%; /** 15% si photo, auto sinon **/
-  margin-right: 15%; /** 25% si photo, auto sinon **/
+  width: 80%;	/** 60% si photo, 80% sinon **/
+  margin-left: auto; /** 15% si photo, auto sinon **/
+  margin-right: auto; /** 25% si photo, auto sinon **/
 	font-family:'Muli', sans-serif;
 	text-align: justify;
 	margin-bottom: 30px;
@@ -77,7 +81,8 @@ h2 {
 }
 
 #right_photo {
-	position: fixed;
+	float: right;
+	position: absolute; /* ne peux pas fonctionner car width et height en % */
 	width: 10%;
 	height: 10%;
 	top: 20%;

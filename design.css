@@ -58,8 +58,8 @@ body {
 
 #right_photo {
 	position: fixed;
-	width: 100px;
-	length: 100px;
+	width: 300px;
+	length: 300px;
 	top: 30%;
 	left: 80%;
 }

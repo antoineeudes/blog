@@ -16,8 +16,7 @@ html, body {
 
 #header {
 	margin-top: 0px;
-	background-color: rgb(245, 130, 0);
-	width: auto;
+	background-color: rgb(246, 107, 0);
 	height: 100px;
 	line-height: 100px;
 	color: white;
@@ -59,7 +58,7 @@ h2 {
   }
 
 #footer {
-	background-color: rgb(245, 130, 0);
+	background-color: rgb(246, 107, 0);
   color: white;
   bottom: 0px;
 	font-weight: 300;
@@ -79,8 +78,8 @@ h2 {
 
 #right_photo {
 	position: fixed;
-	width: 20%;
-	length: 20%;
-	top: 30%;
-	right: 2%;
+	width: 10%;
+	length: 10%;
+	top: 20%;
+	right: 5%;
 	}

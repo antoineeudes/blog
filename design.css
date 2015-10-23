@@ -28,9 +28,9 @@ html, body {
   }
 
 #main {
-  width: 80%;	/** 60% si photo **/
-  margin-left: auto; /** 15% si photo **/
-  margin-right: auto; /** 25% si photo **/
+  width: 60%;	/** 60% si photo, 80% sinon **/
+  margin-left: 15%; /** 15% si photo, auto sinon **/
+  margin-right: 15%; /** 25% si photo, auto sinon **/
 	font-family:'Muli', sans-serif;
 	text-align: justify;
 	margin-bottom: 30px;
@@ -42,6 +42,12 @@ p {
 	margin-top: 0px;
 	margin-bottom: 10px;
   }
+
+p.separator {
+	color: white;
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+}
 
 h2 {
 	font-size: 35px;
@@ -72,8 +78,8 @@ h2 {
 
 #right_photo {
 	position: fixed;
-	width: 300px;
-	length: 300px;
+	width: 250px;
+	length: 250px;
 	top: 30%;
-	left: 80%;
+	left: 78%;
 	}

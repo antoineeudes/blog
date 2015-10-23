@@ -1,5 +1,5 @@
 header {
-	margin-top: 12px;
+	margin-top: 11px;
 	background-color: rgb(150, 150, 150);
 	width: auto;
 	height: 100px;
@@ -55,3 +55,11 @@ body {
 	margin-left: 0px;
 	margin-right: 0px;
 	}
+
+#right_photo {
+	position: fixed;
+	width: 460px;
+	length: 460px;
+	top: 20%;
+	left: 80%;
+}

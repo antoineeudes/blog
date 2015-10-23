@@ -27,8 +27,8 @@ footer {
 
 main {
   width: 60%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 15%;
+  margin-right: 25%;
 	font-family:'Muli', sans-serif;
 	text-align: justify;
   }
@@ -60,6 +60,6 @@ body {
 	position: fixed;
 	width: 100px;
 	length: 100px;
-	top: 20%;
+	top: 30%;
 	left: 80%;
 }
